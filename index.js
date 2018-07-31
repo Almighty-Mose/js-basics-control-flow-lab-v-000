@@ -17,7 +17,8 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmForTip(tipAmount) {
   switch (tipAmount) {
-    case 
+    case 'Generous':
+      ""
   }
   
 }
