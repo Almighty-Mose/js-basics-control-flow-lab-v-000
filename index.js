@@ -20,7 +20,8 @@ function switchOnCharmForTip(tipAmount) {
   switch (tipAmount) {
     case 'Generous':
       response = "Thank you so much."
-    break
+    break;
+    case
   }
   
 }
