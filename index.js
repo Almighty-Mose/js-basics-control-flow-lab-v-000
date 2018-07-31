@@ -26,7 +26,7 @@ function switchOnCharmForTip(tipAmount) {
       break;
     default:
       response = "Bye."
-      
+      break;
   }
-  
+  return response
 }
